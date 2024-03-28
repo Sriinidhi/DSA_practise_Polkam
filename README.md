@@ -1,4 +1,4 @@
-# Kunal_Kushwaha_DSA_Series_SOL
+# DSA_SOL_I_practise
 Here, I append all the Code Solutions of the assignments from Kunal_Kushwaha REPOSITORY.
 More often, I tried all the programs on my logic way through.
 Here by, I am open for any suggestions and queries.
