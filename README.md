@@ -6,3 +6,29 @@ As a start through, I personally recommend any new beginner to start practising 
 
 Questions Repo Link:
 https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments
+
+Arrays
+
+2D Arrays
+
+Str
+
+S & Q
+
+Greedy
+
+Rec & Back T
+
+LL
+
+Heap
+
+BT
+
+BST
+
+Trie
+
+DP
+Graph
+Bits
