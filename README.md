@@ -9,7 +9,7 @@ As a start through, I personally recommend any new beginner to start practising 
 
 2: List basic implementations and understanding
 
-3: Graphs basic creating and accesssing
+3: Graphs basic creating and accesssing(Yet to Upload still in understanding stage)
 
 Arrays
 
