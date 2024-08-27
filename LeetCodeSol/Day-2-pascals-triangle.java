@@ -1,3 +1,6 @@
+//Striver SDE sheet
+//Problem Statement ( https://leetcode.com/problems/pascals-triangle/ )
+
 class Solution {
 
     public void generateRow(int numRows, List<List<Integer>> res)
