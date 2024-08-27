@@ -1,11 +1,8 @@
 # DSA_SOL_I_practise
-Here, I append all the Code Solutions of the assignments from Kunal_Kushwaha REPOSITORY.
-More often, I tried all the programs on my logic way through.
+Here, I append all the Code Solutions that I practise.
+More often, the solutions tried by me, all the programs coded on my logic way through.
 Here by, I am open for any suggestions and queries.
-As a start through, I personally recommend any new beginner to start practising DSA with Kunal_Kushwaha_Repo for impactful outcomes.
-
-Questions Repo Link:
-https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments
+As a start through, I personally recommend any new beginner to start practising DSA with simple questions(However I disclose Q's in solutions or else link of problem) for impactful outcomes.
 
 Arrays
 
@@ -30,5 +27,7 @@ BST
 Trie
 
 DP
+
 Graph
+
 Bits
