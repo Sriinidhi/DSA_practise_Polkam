@@ -7,9 +7,9 @@ As a start through, I personally recommend any new beginner to start practising 
 
 1: Printing Patterns (so here I have max possible pattern problem sol that can be asked in interviews)
 
-2. List basic implementations and understanding
+2: List basic implementations and understanding
 
-3. Graphs basic creating and accesssing
+3: Graphs basic creating and accesssing
 
 Arrays
 
