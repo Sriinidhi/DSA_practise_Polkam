@@ -7,7 +7,8 @@ As a start through, I personally recommend any new beginner to start practising 
 
 1: Printing Patterns (so here I have max possible pattern problem sol that can be asked in interviews)
 
-2: List simple1d2d.java has basic implementations and understanding of how 1d,2d lists work which is very imp in Trees, Graphs working
+2: List:
+   simple1d2d.java has basic implementations and understanding of how 1d,2d lists work which is very imp in Trees, Graphs working
 
 3: Graphs basic creating and accesssing(Yet to Upload still in understanding stage)
 
